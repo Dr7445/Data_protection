@@ -26,7 +26,7 @@ This repository provides a collection of official documents and guidance related
 - **Anonymisation Code of Practice**  
   Offers practical advice on anonymising data to enable lawful data analysis without infringing on privacy.
 
-- ##ICO guide to GDPR
+- **ICO guide to GDPR**
   A booklet of guidance to GDPR by the ICO
 
 ## 🧠 How to Use This Repo
