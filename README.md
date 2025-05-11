@@ -23,11 +23,11 @@ This repository provides a collection of official documents and guidance related
 - **Data Sharing Code of Practice**  
   A comprehensive guide from the ICO on how to share personal data responsibly, lawfully, and securely between organisations.
   
-- **Anonymisation Code of Practice**  
+- **Anonymisation Code of Practice**
   Offers practical advice on anonymising data to enable lawful data analysis without infringing on privacy.
 
 - **ICO guide to GDPR**
-  A booklet of guidance to GDPR by the ICO
+   A booklet of guidance to GDPR by the ICO
 
 ## 🧠 How to Use This Repo
 
